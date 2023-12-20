@@ -1,0 +1,13 @@
+
+gameplay.png
+size: 256, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+mower256
+  rotate: false
+  xy: 2, 2
+  size: 133, 182
+  orig: 133, 182
+  offset: 0, 0
+  index: -1
